@@ -6,4 +6,5 @@ I'm passionate in IT word, with keen focus in Java.git add README.md
 
 ## Hobbies
 - Yoga : I'm keen on practice  Vinyasa yoga 
-Nature: I fell relaxed and happy when I spend some time outside, breathing and just taking sun bath.
+-Nature: I fell relaxed and happy when I spend some time outside, breathing and just taking sun bath.
+-playing sports
