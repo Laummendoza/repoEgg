@@ -8,3 +8,12 @@ I'm passionate in IT word, with keen focus in Java.git add README.md
 - Yoga : I'm keen on practice  Vinyasa yoga 
 -Nature: I fell relaxed and happy when I spend some time outside, breathing and just taking sun bath.
 -playing sports
+I'm passionate in IT word, with keen focus in Java.
+jaklasjhdLAKJDHdhj
+
+
+## Skills
+- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
+
+
+
