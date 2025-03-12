@@ -12,9 +12,8 @@ I'm looking for my best version in this profession. I'm curious, in constant exp
 
 ## Hobbies:-
 - Yoga : I'm keen on practice  Vinyasa yoga 
-- Nature: I fell relaxed and happy when I spend some time outside, breathing and just taking sun bath.
--playing sports
-I'm passionate in IT word, with keen focus in Java.
+- Nature: I fell relaxed and happy when I spend some time outside, breathing fresh air or just taking sun bath.
+
 
 ## languajes:
 - I speek english, portugues and Italian.
